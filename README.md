@@ -43,3 +43,10 @@ Solved the following:
 * factors
 * find coprimes
 
+## Additional Resources
+
+[http://learnyouahaskell.com/](http://learnyouahaskell.com/)   
+[Sterling McCleod](http://github.com/sterlingm/haskell) (group member) - investigated some search algorithms in haskell.   
+[Sean Gallagher](http://github.com/SeanTater) (cofounder) - our resident haskell expert   
+[Clojure](http://github.com/stevemacn/learn-clojure) - some of the other work presented during Functional Fridays.
+
